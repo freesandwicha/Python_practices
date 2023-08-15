@@ -3,7 +3,8 @@
 # Motto : Practice makes perfect.
 # Time : 11/8/2023 1:48 pm
 
-
+#（1） How to use hint.
+# (2) How to use f-string
 def get_input(word_type: str):
     #Python's type hinting 'word_type' should be of type str (string)
     user_input: str = input(f"Enter a {word_type}:")
