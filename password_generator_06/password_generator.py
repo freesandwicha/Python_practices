@@ -49,8 +49,6 @@ def generate_password(length: int, symbols: bool, uppercase: bool) -> str:
             #We're choosing a random uppercase character from the set of all uppercase ASCII characters.
             new_password = new_password[:random_position] + random_upper_char + new_password[random_position + 1:]
             # insert the random_upper_char at the random_position in the new_password.
-            
-
     return new_password
 
 
