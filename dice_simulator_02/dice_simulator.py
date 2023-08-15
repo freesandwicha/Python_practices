@@ -3,7 +3,14 @@
 # Motto : Practice makes perfect.
 # Time : 12/8/2023 11:20 am
 
+#(1)How to use Hint and assign default value.
+#(2)How to use randint to get a integer. 
+#(3)In a for loop, such as for i in range(amount) , the for will be executed {amount-1} times.Every time, the i will be assigned a new integer.
+#(4) * means unpack a list or tuple.
+
+
 from random import randint
+
 
 def roll_dice(amount: int = 2 ) -> list[int]:
     # Hint the type of amount is int, and the default value 2 is assigned to amount.
