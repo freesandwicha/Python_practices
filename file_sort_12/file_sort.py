@@ -1,7 +1,3 @@
-# -*- coding = utf-8 -*-
-# Worker : HAN XIA
-# Motto : Practice makes perfect.
-# Time : 23/8/2023 9:36 am
 
 
 #Sort files based on their different types (extensions)
