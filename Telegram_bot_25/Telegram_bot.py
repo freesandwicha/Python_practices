@@ -6,8 +6,8 @@ from typing import Final
 from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler,filters, ContextTypes
 
-TOKEN: Final[str] = '6393322612:AAEyNS8uCgQDdPt1ib_W4IzEcuTOJHEqWkE'
-BOT_USERNAME: Final[str] = '@Hubble_Summer_bot'
+TOKEN: Final[str] = 'YOUR TOKEN'
+BOT_USERNAME: Final[str] = '@YOURBOT'
 
 
 async def start_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
