@@ -9,7 +9,7 @@ def get_input(word_type: str):
     user_input: str = input(f"Enter a {word_type}:")
     #Python's type hinting (No constraint)
     # (1) We still can define other types.
-    # (2) We don't need to write the data type(str) here
+    # (2) We don't need to write the data type(str) here. Hints just let code clearer.
     return user_input
 
 
