@@ -1,5 +1,4 @@
 # -*- coding = utf-8 -*-
-# Worker : HAN XIA
 # Motto : Practice makes perfect.
 # Time : 11/8/2023 1:48 pm
 
