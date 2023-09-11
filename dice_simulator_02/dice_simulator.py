@@ -2,6 +2,8 @@
 # Motto : Practice makes perfect.
 # Time : 12/8/2023 11:20 am
 
+# Function: A user will choose how many dice they want to play with, and those dice will yield a total sum per game
+
 #(1)How to use Hint and assign default value.
 #(2)How to use randint to get a integer. 
 #(3)In a for loop, such as for i in range(amount) , the for will be executed {amount-1} times.Every time, the i will be assigned a new integer.
