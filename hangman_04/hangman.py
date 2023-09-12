@@ -1,9 +1,8 @@
-
 # -*- coding = utf-8 -*-
-# Worker : HAN XIA
 # Motto : Practice makes perfect.
 # Time : 14/8/2023 8:31 pm
 
+#The simple welcome for any users. Users need to guess the word via typing letters. 
 from random import choice
 
 def run_game():
