@@ -1,9 +1,8 @@
-
 # -*- coding = utf-8 -*-
-# Worker : HAN XIA
 # Motto : Practice makes perfect.
 # Time : 11/8/2023 3:51 pm
 
+#The main funciton: users need to guese a number from lower  to higher. But they just have three times.
 from random import randint
 
 lower_num, higher_num = 1, 10
