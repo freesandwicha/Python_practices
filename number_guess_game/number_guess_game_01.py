@@ -2,7 +2,7 @@
 # Motto : Practice makes perfect.
 # Time : 11/8/2023 3:51 pm
 
-#The main funciton: users need to guess a number from lower  to higher. But they just have three times.
+#The main funciton: users need to guess a number from lower  to higher. During the game, they will get hints. But they just have three times.
 from random import randint
 
 lower_num, higher_num = 1, 10
